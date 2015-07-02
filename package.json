@@ -1,0 +1,28 @@
+{
+  "name": "sinon-fs",
+  "version": "0.0.1",
+  "description": "Sinon.js based spies and stubes for the Node.js fs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlenkeit/sinon-fs.git"
+  },
+  "keywords": [
+    "sinon",
+    "fs",
+    "spy",
+    "mock",
+    "stub",
+    "test",
+    "filesystem"
+  ],
+  "author": "Maximilian Lenkeit <maximilian.lenkeit@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlenkeit/sinon-fs/issues"
+  },
+  "homepage": "https://github.com/mlenkeit/sinon-fs"
+}
