@@ -4,6 +4,7 @@
   "description": "Sinon.js based spies and stubes for the Node.js fs module",
   "main": "index.js",
   "scripts": {
+    "tdd": "mocha test --watch",
     "test": "mocha test"
   },
   "repository": {
