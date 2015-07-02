@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/mlenkeit/sinon-fs/issues"
   },
-  "homepage": "https://github.com/mlenkeit/sinon-fs"
+  "homepage": "https://github.com/mlenkeit/sinon-fs",
+  "dependencies": {
+    "sinon": "^1.15.4"
+  }
 }
