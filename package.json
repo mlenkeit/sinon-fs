@@ -4,7 +4,7 @@
   "description": "Sinon.js based spies and stubes for the Node.js fs module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,9 @@
   "homepage": "https://github.com/mlenkeit/sinon-fs",
   "dependencies": {
     "sinon": "^1.15.4"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
   }
 }
