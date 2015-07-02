@@ -6,7 +6,7 @@
   "scripts": {
     "linter": "eslint lib test",
     "tdd": "mocha test --watch",
-    "test": "mocha test"
+    "test": "npm run linter && mocha test"
   },
   "repository": {
     "type": "git",
